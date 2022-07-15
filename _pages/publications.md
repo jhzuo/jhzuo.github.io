@@ -7,13 +7,15 @@ author_profile: true
 
 Working Paper
 ------
+Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.
+Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms. [Under submisson]
 
-**Jinhang Zuo**, Yi Hu, Yuhang Yao, Xiaoxi Zhang, Carlee Joe-Wong. Online Data Offloading with Uncertain Constraints. Under submisson.
-
-Samarth Gupta, **Jinhang Zuo**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan. Correlated Combinatorial Bandits for Online Resource Allocation. Under submisson.
+**Jinhang Zuo**, Yi Hu, Yuhang Yao, Xiaoxi Zhang, Carlee Joe-Wong. Multi-armed Bandits with Uncertain Constraints. [Under submisson]
 
 Paper
 ------
+Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan. Correlated Combinatorial Bandits for Online Resource Allocation. International Symposium on Theory Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), 2022. (24/121=0.19) [[pdf]](https://www.andrew.cmu.edu/user/gaurij/corr_comb_bandits.pdf) [[ACM SIGMETRICS 2022 Best Poster Award]](https://www.sigmetrics.org/sigmetrics2022/)
+
 **Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen. Online Competitive Influence Maximization. International Conference on Artificial Intelligence and Statistics (AISTATS), 2022. (492/1685=0.29) [[arXiv]](https://arxiv.org/abs/2006.13411)
 
 Xutong Liu, **Jinhang Zuo**, Xiaowei Chen, Wei Chen, John C.S. Lui. Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning. International Conference on Machine Learning (ICML), 2021. (Long Oral, 166/5513=0.03) [[arXiv]](https://arxiv.org/abs/2106.05065)
