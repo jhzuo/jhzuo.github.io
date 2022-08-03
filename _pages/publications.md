@@ -17,7 +17,7 @@ Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Che
 
 Conference Paper
 ------
-- Hierarchical Conversational Preference Elicitation with Bandit Feedback  
+- Hierarchical Conversational Preference Elicitation with Bandit Feedback.  
 **Jinhang Zuo**, Songwen Hu, Tong Yu, Shuai Li, Handong Zhao, Carlee Joe-Wong.  
 Accepted in **CIKM**, 2022.
 
