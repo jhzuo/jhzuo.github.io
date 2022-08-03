@@ -13,4 +13,8 @@ Before joining CMU, I received a B.E. in Communication Engineering from Nanjing 
 
 News
 ======
-Coming soon!
+- **August 2022**: Our work on hierarchical bandits for conversational preference elicitation is accpted to CIKM 2022.
+- **July 2022**: Our work on correlated combinatorial bandits for resource allocation wins the Best Poster Award at ACM SIGMETRICS 2022 and is accepted to ACM MobiHoc 2022.
+- **March 2022**: Our work on online competitive influence maximization appears in AISTATS 2022.
+- **July 2021**: Our work on multi-layered network exploration via random walks appears in ICML 2021 as a long talk (3%).
+- **February 2020**: Our work on multi-player bandits with pre-observations appears in AAAI 2020.
