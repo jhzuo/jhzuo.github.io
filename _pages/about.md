@@ -13,6 +13,7 @@ Before joining CMU, I received a B.E. in Communication Engineering from Nanjing 
 
 News
 ======
+- **Aug. 2022**: I successfully defend my Ph.D. thesis! I'll join Caltech/UMass as a joint postdoc this fall, co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/).
 - **Aug. 2022**: Our work on hierarchical bandits for conversational preference elicitation is accepted to CIKM 2022.
 - **July 2022**: Our work on correlated combinatorial bandits for resource allocation wins the Best Poster Award at ACM SIGMETRICS 2022 and is accepted to ACM MobiHoc 2022.
 - **March 2022**: Our work on competitive influence maximization appears in AISTATS 2022.
