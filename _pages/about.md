@@ -13,6 +13,7 @@ Before joining CMU, I received a B.E. in Communication Engineering from Nanjing 
 
 News
 ======
+- **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to NeurIPS 2022.
 - **Aug. 2022**: I successfully defend my Ph.D. thesis! I will join Caltech/UMass as a joint postdoc this fall, co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/).
 - **Aug. 2022**: Our work on hierarchical bandits for conversational preference elicitation is accepted to CIKM 2022.
 - **July 2022**: Our work on correlated combinatorial bandits for resource allocation wins the Best Poster Award at ACM SIGMETRICS 2022 and is accepted to ACM MobiHoc 2022.

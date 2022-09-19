@@ -7,23 +7,27 @@ author_profile: true
 
 Working Paper
 ------
-- Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
-Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
-[Under submisson]
-
 - Multi-armed Bandits with Uncertain Constraints.<br>
 **Jinhang Zuo**, Yi Hu, Yuhang Yao, Xiaoxi Zhang, Carlee Joe-Wong.<br>
 [Under submisson]
 
+- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
+Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
+[Under submisson]
+
 Conference Paper
 ------
+- Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
+Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
+Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/2208.14837)
+
 - Hierarchical Conversational Preference Elicitation with Bandit Feedback.  
 **Jinhang Zuo**, Songwen Hu, Tong Yu, Shuai Li, Handong Zhao, Carlee Joe-Wong.  
-Accepted in **CIKM**, 2022.
+Accepted to **CIKM**, 2022. [[arXiv]](https://arxiv.org/abs/2209.06129)
 
 - Correlated Combinatorial Bandits for Online Resource Allocation.  
 Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan.   
-Accepted in **MobiHoc**, 2022. (24/121=19%) [[pdf]](https://www.andrew.cmu.edu/user/gaurij/corr_comb_bandits.pdf) [[ACM SIGMETRICS 2022 Best Poster Award]](https://www.sigmetrics.org/sigmetrics2022/)
+Accepted to **MobiHoc**, 2022. (24/121=19%) [[pdf]](https://www.andrew.cmu.edu/user/gaurij/corr_comb_bandits.pdf) [[ACM SIGMETRICS 2022 Best Poster Award]](https://www.sigmetrics.org/sigmetrics2022/)
 
 - Online Competitive Influence Maximization.  
 **Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
@@ -47,6 +51,10 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2020. [[
 
 Journal Paper
 ------
+- Rhythmic RFID Authentication.  
+Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
+IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeexplore.ieee.org/document/9893050)
+
 - SmartWAZ: Design and Implementation of a Smart WiFi Access System Assisted by Zigbee.  
 Bo Zhang, **Jinhang Zuo**, Weiwei Mao.  
 IEEE Access, 2019. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8649629)
