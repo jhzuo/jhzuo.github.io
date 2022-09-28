@@ -13,7 +13,7 @@ Working Paper
 
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-[Under submisson]
+[Submitted to ToN]
 
 Conference Paper
 ------
@@ -37,13 +37,13 @@ The 25th International Conference on Artificial Intelligence and Statistics (**A
 Xutong Liu, **Jinhang Zuo**, Xiaowei Chen, Wei Chen, John C.S. Lui.  
 The 38th International Conference on Machine Learning (**ICML**), 2021. (Long Oral, 166/5513=3%) [[arXiv]](https://arxiv.org/abs/2106.05065)
 
--  Observe Before Play: Multi-armed Bandit with Pre-Observations.  
-**Jinhang Zuo**, Xiaoxi Zhang and Carlee Joe-Wong.  
-The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (1591/7737=20%) [[arXiv]](https://arxiv.org/abs/1911.09458)
-
 - Combinatorial Multi-armed Bandits for Resource Allocation.  
 **Jinhang Zuo**, Carlee Joe-Wong.  
 The 55th Annual Conference on Information Sciences and Systems (**CISS**), 2021. (Invited Paper) [[arXiv]](https://arxiv.org/abs/2105.04373)
+
+-  Observe Before Play: Multi-armed Bandit with Pre-Observations.  
+**Jinhang Zuo**, Xiaoxi Zhang and Carlee Joe-Wong.  
+The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (1591/7737=20%) [[arXiv]](https://arxiv.org/abs/1911.09458)
 
 - RF-Rhythm: Secure and Usable Two-Factor RFID Authentication.  
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
