@@ -7,13 +7,9 @@ author_profile: true
 
 Working Paper
 ------
-- Multi-armed Bandits with Uncertain Constraints.<br>
-**Jinhang Zuo**, Yi Hu, Yuhang Yao, Xiaoxi Zhang, Carlee Joe-Wong.<br>
-[Under submisson]
-
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-[Submitted to ToN]
+[Submitted to IEEE/ACM Transactions on Networking]
 
 Conference Paper
 ------
@@ -23,11 +19,12 @@ Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/
 
 - Hierarchical Conversational Preference Elicitation with Bandit Feedback.  
 **Jinhang Zuo**, Songwen Hu, Tong Yu, Shuai Li, Handong Zhao, Carlee Joe-Wong.  
-Accepted to **CIKM**, 2022. [[arXiv]](https://arxiv.org/abs/2209.06129)
+The 31st ACM International Conference on Information & Knowledge Management (**CIKM**), 2022. [[arXiv]](https://arxiv.org/abs/2209.06129)
 
 - Correlated Combinatorial Bandits for Online Resource Allocation.  
 Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan.   
-Accepted to **MobiHoc**, 2022. (24/121=19%) [[pdf]](https://www.andrew.cmu.edu/user/gaurij/corr_comb_bandits.pdf) [[ACM SIGMETRICS 2022 Best Poster Award]](https://www.sigmetrics.org/sigmetrics2022/)
+The Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), 2022. (24/121=19%) [[pdf]](https://research.ece.cmu.edu/lions/Papers/CorrelatedCMAB_MobiHoc.pdf).  
+Preliminary version received the Best Poster Award at [ACM SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/).
 
 - Online Competitive Influence Maximization.  
 **Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
