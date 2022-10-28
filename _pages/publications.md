@@ -24,7 +24,7 @@ The 31st ACM International Conference on Information & Knowledge Management (**C
 - Correlated Combinatorial Bandits for Online Resource Allocation.  
 Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan.   
 The Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), 2022. (24/121=19%) [[pdf]](https://research.ece.cmu.edu/lions/Papers/CorrelatedCMAB_MobiHoc.pdf).  
-Preliminary version received the Best Poster Award at [ACM SIGMETRICS 2022](https://www.sigmetrics.org/sigmetrics2022/).
+Preliminary version received the [Best Poster Award](https://www.sigmetrics.org/sigmetrics2022/) at ACM SIGMETRICS 2022.
 
 - Online Competitive Influence Maximization.  
 **Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  

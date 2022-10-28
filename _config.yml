@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinhang Zuo"
 title_separator          : "-"
 name                     : &name "Jinhang Zuo"
-description              : &description "Ph.D. candidate in ECE at CMU"
+description              : &description "Joint Caltech/UMass Postdoc"
 url                      : https://jhzuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhzuo.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jinhang Zuo"
   avatar           : "headshot.jpg"
-  bio              : "Ph.D. candidate at CMU"
-  location         : "Pittsburgh, PA"
+  bio              : "Joint Caltech/UMass Postdoc"
+  location         : "Amherst, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W3YHD10AAAAJ"
-  email            : "jzuo@andrew.cmu.edu"
+  email            : "jinhangzuo@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

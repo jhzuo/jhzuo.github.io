@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a joint postdoc at Caltech and UMass, co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/).
+I am a joint postdoc at Caltech and UMass Amherst, co-advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/).
 My research interests include online learning, resource allocation, and networked systems.
 I recevied my Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University in 2022. I was a member of the [LIONS](https://research.ece.cmu.edu/lions/index.html) research group advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before joining CMU, I received a B.E. in Communication Engineering from Nanjing University of Posts and Telecommunications in 2017.
 
