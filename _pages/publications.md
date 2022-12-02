@@ -9,10 +9,15 @@ Working Paper
 ------
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-[Submitted to IEEE/ACM Transactions on Networking]
+[Under submission]
 
 Conference Paper
 ------
+- Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
+Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
+Accepted to **INFOCOM**, 2023. (252/1312=19%)
+
+
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
 Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/2208.14837)

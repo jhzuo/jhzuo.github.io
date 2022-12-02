@@ -13,6 +13,7 @@ I recevied my Ph.D. degree in Electrical and Computer Engineering from Carnegie 
 
 News
 ======
+- **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage bandits is accepted to INFOCOM 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to NeurIPS 2022.
 - **Aug. 2022**: I successfully defend my Ph.D. thesis! I will join Caltech/UMass as a joint postdoc this fall.
 - **Aug. 2022**: Our work on hierarchical bandits for conversational preference elicitation is accepted to CIKM 2022.
