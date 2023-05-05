@@ -9,14 +9,21 @@ Working Paper
 ------
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-[Under submission]
+[Submitted to IEEE JASC]
+
+- The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
+Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
+[One-shot revision to ACM SIGMETRICS] [[arXiv]](https://arxiv.org/abs/2303.17551)
 
 Conference Paper
 ------
+- Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
+Xutong Liu, **Jinhang Zuo**, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
+Accepted to **ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/2303.17110)
+
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
 Accepted to **INFOCOM**, 2023. (252/1312=19%)
-
 
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>

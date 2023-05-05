@@ -13,11 +13,12 @@ I recevied my Ph.D. degree in Electrical and Computer Engineering from Carnegie 
 
 News
 ======
+- **Apr. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to ICML 2023.
 - **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage bandits is accepted to INFOCOM 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to NeurIPS 2022.
 - **Aug. 2022**: I successfully defend my Ph.D. thesis! I will join Caltech/UMass as a joint postdoc this fall.
 - **Aug. 2022**: Our work on hierarchical bandits for conversational preference elicitation is accepted to CIKM 2022.
 - **July 2022**: Our work on correlated combinatorial bandits for resource allocation wins the Best Poster Award at ACM SIGMETRICS 2022 and is accepted to ACM MobiHoc 2022.
-- **March 2022**: Our work on competitive influence maximization appears in AISTATS 2022.
+- **Mar. 2022**: Our work on competitive influence maximization appears in AISTATS 2022.
 - **July 2021**: Our work on multi-layered network exploration via random walks appears in ICML 2021 as a long talk (3%).
 - **Feb. 2020**: Our work on multi-player bandits with pre-observations appears in AAAI 2020.
