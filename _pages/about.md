@@ -13,6 +13,7 @@ I recevied my Ph.D. degree in Electrical and Computer Engineering from Carnegie 
 
 News
 ======
+- **June 2023**: Our work on intelligent communication planning for constrained environmental IoT sensing is accepted to SECON 2023.
 - **Apr. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to ICML 2023.
 - **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage bandits is accepted to INFOCOM 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to NeurIPS 2022.
