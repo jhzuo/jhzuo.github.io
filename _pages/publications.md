@@ -13,7 +13,7 @@ Working Paper
 
 - The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
 Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
-[One-shot revision to ACM SIGMETRICS] [[arXiv]](https://arxiv.org/abs/2303.17551)
+[Under Submission] [[arXiv]](https://arxiv.org/abs/2303.17551)
 
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
