@@ -83,12 +83,12 @@ author:
   name             : "Jinhang Zuo"
   avatar           : "headshot.jpg"
   bio              : "Joint Caltech/UMass Postdoc"
-  location         : "Amherst, MA"
+  location         : "Pasadena, CA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=W3YHD10AAAAJ"
-  email            : "jinhangzuo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jhzuo@cs.umass.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jhzuo"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
