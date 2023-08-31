@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working Paper
+Working Papers
 ------
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
@@ -19,7 +19,7 @@ Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Ha
 Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
 [Submitted to IEEE Journal on Selected Areas in Communications]
 
-Conference Paper
+Conference Papers
 ------
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
 Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
@@ -66,7 +66,7 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
 IEEE International Conference on Computer Communications (**INFOCOM**), 2020. [[arXiv]](https://arxiv.org/abs/2003.08923)
 
-Journal Paper
+Journal Papers
 ------
 - Rhythmic RFID Authentication.  
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
