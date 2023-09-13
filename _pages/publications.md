@@ -15,10 +15,6 @@ Working Papers
 Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
 [Under Submission] [[arXiv]](https://arxiv.org/abs/2303.17551)
 
-- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
-Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-[Submitted to IEEE Journal on Selected Areas in Communications]
-
 Conference Papers
 ------
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
@@ -68,6 +64,10 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2020. [[
 
 Journal Papers
 ------
+- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
+Xiaoxi Zhang, **Jinhang Zuo #**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
+Accepted to IEEE Journal on Selected Areas in Communications, 2023.
+
 - Rhythmic RFID Authentication.  
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
 IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeexplore.ieee.org/document/9893050)
