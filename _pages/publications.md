@@ -19,7 +19,7 @@ Conference Papers
 ------
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
 Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
-Accepted to **SECON**, 2023. (43/182=23%).
+Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%).
 
 - Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
@@ -35,7 +35,7 @@ Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/
 
 - Hierarchical Conversational Preference Elicitation with Bandit Feedback.  
 **Jinhang Zuo**, Songwen Hu, Tong Yu, Shuai Li, Handong Zhao, Carlee Joe-Wong.  
-The 31st ACM International Conference on Information & Knowledge Management (**CIKM**), 2022. [[arXiv]](https://arxiv.org/abs/2209.06129)
+The 31st ACM International Conference on Information & Knowledge Management (**CIKM**), 2022. (621/2257=28%) [[arXiv]](https://arxiv.org/abs/2209.06129)
 
 - Correlated Combinatorial Bandits for Online Resource Allocation.  
 Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri Joshi, Osman Yağan. (*Equal contribution)<br>
@@ -65,7 +65,7 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2020. [[
 Journal Papers
 ------
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
-Xiaoxi Zhang, **Jinhang Zuo #**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
+Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
 Accepted to IEEE Journal on Selected Areas in Communications, 2023.
 
 - Rhythmic RFID Authentication.  
