@@ -5,18 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working Papers
+2023
 ------
+
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
-[Under Submission] [[arXiv]](https://arxiv.org/abs/2305.17071)
+Accepted to **NeurIPS**, 2023. [[arXiv]](https://arxiv.org/abs/2305.17071)
 
-- The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
-Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
-[Under Submission] [[arXiv]](https://arxiv.org/abs/2303.17551)
+- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
+Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
+Accepted to IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
 
-Conference Papers
-------
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
 Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
 Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%).
@@ -29,6 +28,13 @@ Accepted to **ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/230
 Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (*Equal contribution)<br>
 Accepted to **INFOCOM**, 2023. (252/1312=19%)
 
+- The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
+Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2303.17551)
+
+
+2022
+------
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
 Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/2208.14837)
@@ -46,6 +52,12 @@ Preliminary version received the [Best Poster Award](https://www.sigmetrics.org/
 **Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
 The 25th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2022. (492/1685=29%) [[arXiv]](https://arxiv.org/abs/2006.13411)
 
+- Rhythmic RFID Authentication.  
+Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
+IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeexplore.ieee.org/document/9893050)
+
+2021
+------
 - Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning.  
 Xutong Liu, **Jinhang Zuo**, Xiaowei Chen, Wei Chen, John C.S. Lui.  
 The 38th International Conference on Machine Learning (**ICML**), 2021. (Long Oral, 166/5513=3%) [[arXiv]](https://arxiv.org/abs/2106.05065)
@@ -54,6 +66,9 @@ The 38th International Conference on Machine Learning (**ICML**), 2021. (Long Or
 **Jinhang Zuo**, Carlee Joe-Wong.  
 The 55th Annual Conference on Information Sciences and Systems (**CISS**), 2021. (Invited Paper) [[arXiv]](https://arxiv.org/abs/2105.04373)
 
+
+2020 and Before
+------
 -  Observe Before Play: Multi-armed Bandit with Pre-Observations.  
 **Jinhang Zuo**, Xiaoxi Zhang and Carlee Joe-Wong.  
 The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (1591/7737=20%) [[arXiv]](https://arxiv.org/abs/1911.09458)
@@ -61,16 +76,6 @@ The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (
 - RF-Rhythm: Secure and Usable Two-Factor RFID Authentication.  
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
 IEEE International Conference on Computer Communications (**INFOCOM**), 2020. [[arXiv]](https://arxiv.org/abs/2003.08923)
-
-Journal Papers
-------
-- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
-Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-Accepted to IEEE Journal on Selected Areas in Communications, 2023.
-
-- Rhythmic RFID Authentication.  
-Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
-IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeexplore.ieee.org/document/9893050)
 
 - SmartWAZ: Design and Implementation of a Smart WiFi Access System Assisted by Zigbee.  
 Bo Zhang, **Jinhang Zuo**, Weiwei Mao.  

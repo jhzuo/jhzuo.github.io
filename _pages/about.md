@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My main research interests include online learning, resource allocation, and network systems. I am particularly interested in online learning for large-scale network systems with numerous learning parameters and large action spaces. My research work aims at developing rigorous algorithms with provable learning efficiency for applications in various domains such as edge computing, wireless networking, social networks, and cyber-physical systems. 
+My main research interests include online learning, networked systems. and resource allocation. My research aims at developing rigorous learning algorithms with provable guarantees that are applicable in various domains such as edge computing, wireless networking, social networks, and cyber-physical systems.
 
-My recent works study large-scale online learning problems from different perspectives, including combinatorial bandits with side information, multi-agent cooperative learning, and learning-augmented online algorithms with predictions. I am also interested in trustworthy online learning including adversarial attacks on bandits and robust online algorithm design against corruptions.
+My recent works study online learning for networked systems from different perspectives, including online resource allocation under collaboration and competition, variance-adaptive combinatorial bandits, and online learning with side information. I am also actively exploring trustworthy online learning, particularly involving adversarial attacks on bandits and robust online algorithms against corruptions.
 
 
 Bio
@@ -21,6 +21,7 @@ My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVc
 
 News
 ======
+- **Sept. 2023**: Our work on adversarial attacks on online learning to rank is accepted to NeurIPS 2023.
 - **June 2023**: Our work on intelligent communication planning for constrained environmental IoT sensing is accepted to SECON 2023.
 - **Apr. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to ICML 2023.
 - **Feb. 2023**: I give a talk on variance-adaptive bandit algorithms in the Information Theory and Applications (ITA) Workshop.
