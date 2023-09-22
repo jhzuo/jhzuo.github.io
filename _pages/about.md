@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My main research interests include online learning, networked systems. and resource allocation. My research aims at developing rigorous learning algorithms with provable guarantees that are applicable in various domains such as edge computing, wireless networking, social networks, and cyber-physical systems.
+My main research interests include online learning, networked systems, and resource allocation. My research aims at developing rigorous learning algorithms with provable guarantees that are applicable in various domains such as edge computing, wireless networking, social networks, and cyber-physical systems.
 
 My recent works study online learning for networked systems from different perspectives, including online resource allocation under collaboration and competition, variance-adaptive combinatorial bandits, and online learning with side information. I am also actively exploring trustworthy online learning, particularly involving adversarial attacks on bandits and robust online algorithms against corruptions.
 
