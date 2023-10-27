@@ -14,7 +14,7 @@ Accepted to **SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
 2023
 ------
 - Adversarial Attacks on Cooperative Multi-agent Bandits.  
-**Jinhang Zuo***, Zhiyao Zhang*, Xuchuang Wang*, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
+**Jinhang Zuo<sup>\*</sup>**, Zhiyao Zhang<sup>\*</sup>, Xuchuang Wang<sup>\*</sup>, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
 Preprint, 2023.
 
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
