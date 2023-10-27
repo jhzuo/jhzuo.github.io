@@ -5,8 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+------
+- The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
+Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
+Accepted to **SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
+
 2023
 ------
+- Adversarial Attacks on Cooperative Multi-agent Bandits.  
+**Jinhang Zuo***, Zhiyao Zhang*, Xuchuang Wang*, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
+Preprint, 2023.
 
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
@@ -27,11 +36,6 @@ Accepted to **ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/230
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (*Equal contribution)<br>
 Accepted to **INFOCOM**, 2023. (252/1312=19%)
-
-- The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
-Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
-Preprint. [[arXiv]](https://arxiv.org/abs/2303.17551)
-
 
 2022
 ------
