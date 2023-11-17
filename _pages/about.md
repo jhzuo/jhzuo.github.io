@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research strives to develop **efficient**, **scalable** and **trustworthy** online learning algorithms to enable intelligent networked systems. Towards this goal, I  use theoretical tools from machine learning, optimization, and economics, to design rigorous algorithms with provable guarantees that can be deployed in data networks, edge/mobile/cloud computing systems, social networks, and beyond.
+My research strives to develop **efficient**, **scalable** and **trustworthy** machine learning algorithms to build intelligent networked systems. Towards this goal, I  use theoretical tools from machine learning, optimization, and probablity, to design rigorous algorithms with provable guarantees that have been deployed in data networks, edge/mobile/cloud computing systems, social networks, and beyond.
 
 **I am in the 2023-2024 job market looking for faculty positions**. My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVcpL7Za5O7AYH/view?usp=sharing).
 
@@ -34,4 +34,4 @@ Honors and Awards
 - AAAI-20 Student Scholarship&ensp;2020
 - SIGMETRICS Student Travel Grant&ensp;2018
 - Carnegie Institute of Technology Dean's Fellowship&ensp;2017
-- China National Scholarship &ensp;2015, 2016
+- National Scholarship from Ministry of Education of China&ensp;2015, 2016
