@@ -7,16 +7,24 @@ author_profile: true
 
 2024
 ------
+- Adversarial Attacks on Cooperative Multi-agent Bandits.  
+**Jinhang Zuo<sup>\*</sup>**, Zhiyao Zhang<sup>\*</sup>, Xuchuang Wang<sup>\*</sup>, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
+Preprint. [[arXiv]](https://arxiv.org/abs/2311.01698)
+
+- Edge-MSL: Split Learning on the Mobile Edge via Multi-Armed Bandits.<br>
+Taejin Kim, **Jinhang Zuo**, Xiaoxi Zhang, Carlee Joe-Wong.<br>
+Accepted to **IEEE INFOCOM**, 2024.
+
+- Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach.<br>
+Xutong Liu, **Jinhang Zuo**, Junkai Wang, Zhiyong Wang, Yuedong Xu, John C.S. Lui.<br>
+Accepted to **IEEE INFOCOM**, 2024.
+
 - The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
 Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
 Accepted to **SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
 
 2023
 ------
-- Adversarial Attacks on Cooperative Multi-agent Bandits.  
-**Jinhang Zuo<sup>\*</sup>**, Zhiyao Zhang<sup>\*</sup>, Xuchuang Wang<sup>\*</sup>, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
-Preprint, 2023.
-
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
 Accepted to **NeurIPS**, 2023. [[arXiv]](https://arxiv.org/abs/2305.17071)
@@ -27,7 +35,7 @@ Accepted to IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
 
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
 Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
-Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%).
+Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%). [[arXiv]](https://arxiv.org/abs/2308.10124)
 
 - Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>

@@ -9,9 +9,7 @@ redirect_from:
 ---
 My research strives to develop **efficient**, **scalable** and **trustworthy** machine learning algorithms to build intelligent **learning-enabled networked systems**. Towards this goal, I  use theoretical tools from machine learning, optimization, and probability, to design rigorous algorithms with provable guarantees that have been deployed in data networks, edge/mobile/cloud computing systems, social networks, and beyond.
 
-**I am in the 2023-2024 job market looking for faculty positions**. My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVcpL7Za5O7AYH/view?usp=sharing).
-
-<!-- My recent works study online learning for networked systems from different perspectives, including online resource allocation under collaboration and competition, variance-adaptive combinatorial bandits, and online learning with side information. I am also actively exploring trustworthy online learning, particularly involving adversarial attacks on bandits and robust online algorithms against corruptions. -->
+**I am on the 2023-2024 job market looking for faculty positions**. My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVcpL7Za5O7AYH/view?usp=sharing).
 
 
 Bio
@@ -20,6 +18,7 @@ I am a joint postdoc at Caltech and UMass Amherst, working with Prof. [Adam Wier
 
 News
 ======
+- **Dec. 2023**: Two papers about split learning on the mobile edge and context-aware probabilistic maximum coverage bandits are accepted to INFOCOM 2024.
 - **Oct. 2023**: Our work on online pause and resume for carbon-aware load shifting is accepted to SIGMETRICS 2024.
 - **Sept. 2023**: Our work on adversarial attacks on online learning to rank is accepted to NeurIPS 2023.
 - **June 2023**: Our work on intelligent communication planning for constrained environmental IoT sensing is accepted to SECON 2023.
