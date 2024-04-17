@@ -29,27 +29,28 @@ Accepted to **SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
 Accepted to **NeurIPS**, 2023. [[arXiv]](https://arxiv.org/abs/2305.17071)
 
-- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
-Xiaoxi Zhang, **Jinhang Zuo**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong.<br>
-Accepted to IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
+- Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
+Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (*Equal contribution)<br>
+Accepted to **INFOCOM**, 2023. (252/1312=19%)
 
-- Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
-Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
-Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%). [[arXiv]](https://arxiv.org/abs/2308.10124)
+- Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
+Xiaoxi Zhang, **Jinhang Zuo<sup>\#</sup>**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong. (#Corresponding author)<br>
+Accepted to IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
 
 - Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
 Accepted to **ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/2303.17110)
 
-- Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
-Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (*Equal contribution)<br>
-Accepted to **INFOCOM**, 2023. (252/1312=19%)
+- Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
+Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
+Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%). [[arXiv]](https://arxiv.org/abs/2308.10124)
+
 
 2022
 ------
-- Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
-Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
-Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/2208.14837)
+- Online Competitive Influence Maximization.  
+**Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
+The 25th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2022. (492/1685=29%) [[arXiv]](https://arxiv.org/abs/2006.13411)
 
 - Hierarchical Conversational Preference Elicitation with Bandit Feedback.  
 **Jinhang Zuo**, Songwen Hu, Tong Yu, Shuai Li, Handong Zhao, Carlee Joe-Wong.  
@@ -60,9 +61,9 @@ Samarth Gupta<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Carlee Joe-Wong, Gauri
 The Twenty-Third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc**), 2022. (24/121=19%) [[pdf]](https://research.ece.cmu.edu/lions/Papers/CorrelatedCMAB_MobiHoc.pdf).  
 Preliminary version received the [Best Poster Award](https://www.sigmetrics.org/sigmetrics2022/) at ACM SIGMETRICS 2022.
 
-- Online Competitive Influence Maximization.  
-**Jinhang Zuo**, Xutong Liu, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
-The 25th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2022. (492/1685=29%) [[arXiv]](https://arxiv.org/abs/2006.13411)
+- Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
+Xutong Liu, **Jinhang Zuo**, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
+Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/2208.14837)
 
 - Rhythmic RFID Authentication.  
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
@@ -70,13 +71,14 @@ IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeex
 
 2021
 ------
+- Combinatorial Multi-armed Bandits for Resource Allocation.  
+**Jinhang Zuo**, Carlee Joe-Wong.  
+The 55th Annual Conference on Information Sciences and Systems (**CISS**), 2021. (Invited Paper) [[arXiv]](https://arxiv.org/abs/2105.04373)
+
 - Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning.  
 Xutong Liu, **Jinhang Zuo**, Xiaowei Chen, Wei Chen, John C.S. Lui.  
 The 38th International Conference on Machine Learning (**ICML**), 2021. (Long Oral, 166/5513=3%) [[arXiv]](https://arxiv.org/abs/2106.05065)
 
-- Combinatorial Multi-armed Bandits for Resource Allocation.  
-**Jinhang Zuo**, Carlee Joe-Wong.  
-The 55th Annual Conference on Information Sciences and Systems (**CISS**), 2021. (Invited Paper) [[arXiv]](https://arxiv.org/abs/2105.04373)
 
 
 2020 and Before

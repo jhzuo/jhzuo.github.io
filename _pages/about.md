@@ -18,12 +18,12 @@ I am a joint postdoc at Caltech and UMass Amherst, working with Prof. [Adam Wier
 
 News
 ======
+- **Feb. 2024**: I give a talk on adversarial attacks on cooperative multi-agent bandits in the Information Theory and Applications (ITA) Workshop.
 - **Dec. 2023**: Two papers about split learning on the mobile edge and context-aware probabilistic maximum coverage bandits are accepted to INFOCOM 2024.
 - **Oct. 2023**: Our work on online pause and resume for carbon-aware load shifting is accepted to SIGMETRICS 2024.
 - **Sept. 2023**: Our work on adversarial attacks on online learning to rank is accepted to NeurIPS 2023.
 - **June 2023**: Our work on intelligent communication planning for constrained environmental IoT sensing is accepted to SECON 2023.
 - **Apr. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to ICML 2023.
-- **Feb. 2023**: I give a talk on variance-adaptive bandit algorithms in the Information Theory and Applications (ITA) Workshop.
 
 Honors and Awards
 ======
