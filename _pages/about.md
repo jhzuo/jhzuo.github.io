@@ -11,7 +11,7 @@ My research strives to develop efficient, scalable, and trustworthy machine lear
 
 I will be joining the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a tenure-track assistant professor in Fall 2024. 
 
-<span style="color: red;">Openings:</span> I am seeking PhD students, research assistants, and postdocs starting in Spring 2025 or Fall 2025. For more detailed information, please refer to this [page](https://jhzuo.github.io/openings/). If you are interested, please email me your CV and transcripts.
+<span style="color: purple;">**Openings**:</span> I am seeking PhD students, research assistants, and postdocs starting in Spring 2025 or Fall 2025. For more detailed information, please refer to this [page](https://jhzuo.github.io/openings/). If you are interested, please email me your CV and transcripts.
 
 
 Bio
