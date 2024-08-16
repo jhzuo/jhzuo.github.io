@@ -6,17 +6,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-My research strives to develop efficient, scalable, and trustworthy machine learning algorithms to build intelligent, learning-enabled networks and systems. To achieve this, I use theoretical tools from machine learning, optimization, and probability to design new algorithms with theoretical guarantees. These algorithms have been successfully deployed in data networks, edge/mobile/cloud computing systems, social networks, and beyond.
+---My research strives to develop efficient, scalable, and trustworthy machine learning algorithms to build intelligent, learning-enabled networks and systems. To achieve this, I use theoretical tools from machine learning, optimization, and probability to design rigorous algorithms with theoretical guarantees. These algorithms have been deployed in data networks, edge/mobile/cloud computing systems, recommender systems, and beyond.
 
-I will be joining the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) as a tenure-track assistant professor in Fall 2024. 
-
-<span style="color: purple;">**Openings**:</span> I am seeking PhD students, research assistants, and postdocs starting in Spring 2025 or Fall 2025. For more detailed information, please refer to this [page](https://jhzuo.github.io/openings/). If you are interested, please email me your CV and transcripts.
-
+<span style="color: purple;">**Openings**:</span> I am seeking PhD students and Research Assistants starting in Spring 2025 or Fall 2025.  If you are interested, please email me your CV and transcripts. For more information, please visit this [page](https://jhzuo.github.io/openings/).
 
 Bio
 ======
-I am a joint postdoc at [Caltech CMS](https://www.cms.caltech.edu/) and [UMass Amherst CICS](https://www.cics.umass.edu/), working with Prof. [Adam Wierman](https://adamwierman.com/) and Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). I recevied my Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University in 2022. I was a member of the [LIONS](https://research.ece.cmu.edu/lions/index.html) research group advised by Prof. [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I received my B.E. in Communication Engineering from Nanjing University of Posts and Telecommunications in 2017.
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk). Prior to this, I was a joint postdoc at Caltech and UMass Amherst, working with Prof. Adam Wierman and Prof. Mohammad Hajiesmaili. I received my Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University in 2022, advised by Prof. Carlee Joe-Wong. Before that, I completed my B.E. in Communication Engineering at Nanjing University of Posts and Telecommunications in 2017.
 
 My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVcpL7Za5O7AYH/view?usp=sharing).
 
