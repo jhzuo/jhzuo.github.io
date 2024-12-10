@@ -5,11 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+2025
+------
+- Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems.  
+Junkai Wang, Xutong Liu, **Jinhang Zuo**, Yuedong Xu.  
+Accepted to **IEEE INFOCOM**, 2025.
+
+- Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.  
+Xiangxiang Dai, Xutong Liu, **Jinhang Zuo**, Hong Xie, Carlee Joe-Wong, John C.S. Lui.  
+Accepted to IEEE/ACM Transactions on Networking, 2025.
+
+
 2024
 ------
 - Adversarial Attacks on Cooperative Multi-agent Bandits.  
 **Jinhang Zuo<sup>\*</sup>**, Zhiyao Zhang<sup>\*</sup>, Xuchuang Wang<sup>\*</sup>, Cheng Chen, Shuai Li, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman. (*Equal Contribution)  
 Preprint. [[arXiv]](https://arxiv.org/abs/2311.01698)
+
+- Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond.<br>
+Xutong Liu, Siwei Wang, **Jinhang Zuo**, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
+Accepted to **ICML**, 2024.
 
 - Edge-MSL: Split Learning on the Mobile Edge via Multi-Armed Bandits.<br>
 Taejin Kim, **Jinhang Zuo**, Xiaoxi Zhang, Carlee Joe-Wong.<br>

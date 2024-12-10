@@ -20,18 +20,8 @@ My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVc
 
 News
 ======
+- **Dec. 2024**: Our work on robust combinatorial contextual bandits is accepted to INFOCOM 2025.
+- **Dec. 2024**: Our work on heterogeneous multi-agent bandits with hints is accepted to AAAI 2025.
 - **May. 2024**: Our work on a combinatorial bandit approach to solving episodic RL is accepted to ICML 2024.
 - **Feb. 2024**: I give a talk on adversarial attacks on cooperative multi-agent bandits in the Information Theory and Applications (ITA) Workshop.
 - **Dec. 2023**: Two papers about split learning on the mobile edge and context-aware probabilistic maximum coverage bandits are accepted to INFOCOM 2024.
-- **Oct. 2023**: Our work on online pause and resume for carbon-aware load shifting is accepted to SIGMETRICS 2024.
-- **Sept. 2023**: Our work on adversarial attacks on online learning to rank is accepted to NeurIPS 2023.
-
-Honors and Awards
-======
-- CDS Postdoctoral Fellowship, UMass Amherst CICS&ensp;2022
-- SIGMETRICS Best Poster Award &ensp;2022
-- Qualcomm Innovation Fellowship Finalist&ensp;2021
-- AAAI-20 Student Scholarship&ensp;2020
-- SIGMETRICS Student Travel Grant&ensp;2018
-- Carnegie Institute of Technology Dean's Fellowship&ensp;2017
-- National Scholarship from Ministry of Education of China&ensp;2015, 2016
