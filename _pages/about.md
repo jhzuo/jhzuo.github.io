@@ -9,7 +9,7 @@ redirect_from:
 ---
 My research strives to develop efficient, scalable, and trustworthy machine learning algorithms to build intelligent, learning-enabled networks and systems. To achieve this, I use theoretical tools from machine learning, optimization, and probability to design rigorous algorithms with theoretical guarantees. These algorithms have been deployed in data networks, edge/mobile/cloud computing systems, recommender systems, and beyond.
 
-<span style="color: purple;">**Openings**:</span> I am seeking PhD students and Research Assistants starting in Spring 2025 or Fall 2025.  If you are interested, please email me your CV and transcripts. For more information, please visit this [page](https://jhzuo.github.io/openings/).
+<span style="color: purple;">**Openings**:</span> I am seeking PhD students and Research Assistants starting in Summer/Fall 2025.  If you are interested, please email me your CV and transcripts. For more information, please visit this [page](https://jhzuo.github.io/openings/).
 
 Bio
 ======
@@ -20,8 +20,6 @@ My CV can be found [here](https://drive.google.com/file/d/1SYAuP3JsD7LUFYkGSaZVc
 
 News
 ======
+- **Jan. 2025**: Our work on bandits robust to adversarial attacks is accepted to ICLR 2025.
 - **Dec. 2024**: Our work on robust combinatorial contextual bandits is accepted to INFOCOM 2025.
 - **Dec. 2024**: Our work on heterogeneous multi-agent bandits with hints is accepted to AAAI 2025.
-- **May. 2024**: Our work on a combinatorial bandit approach to solving episodic RL is accepted to ICML 2024.
-- **Feb. 2024**: I give a talk on adversarial attacks on cooperative multi-agent bandits in the Information Theory and Applications (ITA) Workshop.
-- **Dec. 2023**: Two papers about split learning on the mobile edge and context-aware probabilistic maximum coverage bandits are accepted to INFOCOM 2024.

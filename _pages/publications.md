@@ -8,9 +8,18 @@ author_profile: true
 
 2025
 ------
+- Stochastic Bandits Robust to Adversarial Attacks.  
+Xuchuang Wang, Maoli Liu, **Jinhang Zuo**, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.   
+Accepted to **ICLR**, 2025.
+
 - Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems.  
 Junkai Wang, Xutong Liu, **Jinhang Zuo**, Yuedong Xu.  
 Accepted to **IEEE INFOCOM**, 2025.
+
+- Heterogeneous Multi-Agent Bandits with Parsimonious Hints.  
+Amirmahdi Mirfakhar, Xuchuang Wang, **Jinhang Zuo**, Yair Zick, Mohammad Hajiesmaili.  
+Accepted to **AAAI**, 2025.
+
 
 - Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.  
 Xiangxiang Dai, Xutong Liu, **Jinhang Zuo**, Hong Xie, Carlee Joe-Wong, John C.S. Lui.  
