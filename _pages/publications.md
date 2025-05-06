@@ -8,21 +8,36 @@ author_profile: true
 
 2025
 ------
+- Fusing Reward and Dueling Feedback in Stochastic Bandits.  
+Xuchuang Wang, Qirun Zeng, Jinhang Zuo, Xutong Liu, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman
+Accepted to **ICML**, 2025.
+
+- Offline Learning for Combinatorial Multi-armed Bandits.  
+Xutong Liu, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.  
+Accepted to **ICML**, 2025.
+
+- PASTA: Training Acceleration for Vertical Federated Learning via Adaptive Pipeline Parallelism.  
+Tian Wu, Weijie Liu, Han Liang, Ziwei Zhan, Jingpu Duan, Chuan Wu, Jinhang Zuo, Xu Chen, Xiaoxi Zhang.
+Accepted to **IWQoS**, 2025.
+
 - Stochastic Bandits Robust to Adversarial Attacks.  
-Xuchuang Wang, Maoli Liu, **Jinhang Zuo**, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.   
+Xuchuang Wang, Maoli Liu, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.   
 Accepted to **ICLR**, 2025.
 
 - Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems.  
-Junkai Wang, Xutong Liu, **Jinhang Zuo**, Yuedong Xu.  
+Junkai Wang, Xutong Liu, Jinhang Zuo, Yuedong Xu.  
 Accepted to **IEEE INFOCOM**, 2025.
 
 - Heterogeneous Multi-Agent Bandits with Parsimonious Hints.  
-Amirmahdi Mirfakhar, Xuchuang Wang, **Jinhang Zuo**, Yair Zick, Mohammad Hajiesmaili.  
+Amirmahdi Mirfakhar, Xuchuang Wang, Jinhang Zuo, Yair Zick, Mohammad Hajiesmaili.  
 Accepted to **AAAI**, 2025.
 
+- Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions.  
+Fatemeh Ghaffari , Xuchuang Wang, Jinhang Zuo, Mohammad Hajiesmaili
+Accepted to **L4DC**, 2025.
 
 - Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.  
-Xiangxiang Dai, Xutong Liu, **Jinhang Zuo**, Hong Xie, Carlee Joe-Wong, John C.S. Lui.  
+Xiangxiang Dai, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.  
 Accepted to IEEE/ACM Transactions on Networking, 2025.
 
 
@@ -34,41 +49,45 @@ Preprint. [[arXiv]](https://arxiv.org/abs/2311.01698)
 
 - Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond.<br>
 Xutong Liu, Siwei Wang, **Jinhang Zuo**, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
-Accepted to **ICML**, 2024.
+**ICML**, 2024.
 
 - Edge-MSL: Split Learning on the Mobile Edge via Multi-Armed Bandits.<br>
 Taejin Kim, **Jinhang Zuo**, Xiaoxi Zhang, Carlee Joe-Wong.<br>
-Accepted to **IEEE INFOCOM**, 2024.
+**IEEE INFOCOM**, 2024.
 
 - Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach.<br>
 Xutong Liu, **Jinhang Zuo**, Junkai Wang, Zhiyong Wang, Yuedong Xu, John C.S. Lui.<br>
-Accepted to **IEEE INFOCOM**, 2024.
+**IEEE INFOCOM**, 2024.
 
 - The Online Pause and Resume Problem: Optimal Algorithms and An Application to Carbon-Aware Load Shifting.<br>
 Adam Lechowicz, Nicolas Christianson, **Jinhang Zuo**, Noman Bashir, Mohammad Hajiesmaili, Adam Wierman, Prashant Shenoy.<br>
-Accepted to **SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
+**SIGMETRICS**, 2024. [[arXiv]](https://arxiv.org/abs/2303.17551)
+
+- MPVSched : Multipath Transmissions and Video Frame Scheduling for Content Delivery Networks.  
+Haoran Xu, Xiaoxi Zhang, Jingpu Duan, Chuan Wu, **Jinhang Zuo**, Xuan Zeng, Chen Chen, Yubing Qiu, Xu Chen.  
+International Conference on Networking, Architecture and Storage (**NAS**), 2024
 
 2023
 ------
 - Adversarial Attacks on Online Learning to Rank with Click Feedback.<br>
 **Jinhang Zuo**, Zhiyao Zhang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, Adam Wierman.<br>
-Accepted to **NeurIPS**, 2023. [[arXiv]](https://arxiv.org/abs/2305.17071)
+**NeurIPS**, 2023. [[arXiv]](https://arxiv.org/abs/2305.17071)
 
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 Xutong Liu<sup>\*</sup>, **Jinhang Zuo<sup>\*</sup>**, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (*Equal contribution)<br>
-Accepted to **INFOCOM**, 2023. (252/1312=19%)
+**INFOCOM**, 2023. (252/1312=19%)
 
 - Learning with Side Information: Online Resource Control for 5G/6G Disaggregated RANs.<br>
 Xiaoxi Zhang, **Jinhang Zuo<sup>\#</sup>**, Zhe Huang, Zhi Zhou, Xu Chen, Carlee Joe-Wong. (#Corresponding author)<br>
-Accepted to IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
+IEEE Journal on Selected Areas in Communications (**JSAC**), 2023.
 
 - Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
 Xutong Liu, **Jinhang Zuo**, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
-Accepted to **ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/2303.17110)
+**ICML**, 2023. (1827/6538=27%). [[arXiv]](https://arxiv.org/abs/2303.17110)
 
 - Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.<br>
 Yi Hu, **Jinhang Zuo**, Bob Iannucci, Carlee Joe-Wong.<br>
-Accepted to IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%). [[arXiv]](https://arxiv.org/abs/2308.10124)
+IEEE International Conference on Sensing, Communication, and Networking (**SECON**), 2023. (43/182=23%). [[arXiv]](https://arxiv.org/abs/2308.10124)
 
 
 2022
