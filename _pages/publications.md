@@ -9,19 +9,19 @@ author_profile: true
 2025
 ------
 - Fusing Reward and Dueling Feedback in Stochastic Bandits.  
-Xuchuang Wang, Qirun Zeng, Jinhang Zuo, Xutong Liu, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman
+Xuchuang Wang, Qirun Zeng, Jinhang Zuo, Xutong Liu, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman.  
 Accepted to **ICML**, 2025.
 
 - Offline Learning for Combinatorial Multi-armed Bandits.  
-Xutong Liu, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.  
+Xutong Liu, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
 Accepted to **ICML**, 2025.
 
 - PASTA: Training Acceleration for Vertical Federated Learning via Adaptive Pipeline Parallelism.  
-Tian Wu, Weijie Liu, Han Liang, Ziwei Zhan, Jingpu Duan, Chuan Wu, Jinhang Zuo, Xu Chen, Xiaoxi Zhang.
+Tian Wu, Weijie Liu, Han Liang, Ziwei Zhan, Jingpu Duan, Chuan Wu, Jinhang Zuo, Xu Chen, Xiaoxi Zhang.  
 Accepted to **IWQoS**, 2025.
 
 - Stochastic Bandits Robust to Adversarial Attacks.  
-Xuchuang Wang, Maoli Liu, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.   
+Xuchuang Wang, Maoli Liu, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.  
 Accepted to **ICLR**, 2025.
 
 - Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems.  
@@ -33,7 +33,7 @@ Amirmahdi Mirfakhar, Xuchuang Wang, Jinhang Zuo, Yair Zick, Mohammad Hajiesmaili
 Accepted to **AAAI**, 2025.
 
 - Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions.  
-Fatemeh Ghaffari , Xuchuang Wang, Jinhang Zuo, Mohammad Hajiesmaili
+Fatemeh Ghaffari , Xuchuang Wang, Jinhang Zuo, Mohammad Hajiesmaili.  
 Accepted to **L4DC**, 2025.
 
 - Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.  
