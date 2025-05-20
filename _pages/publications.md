@@ -8,6 +8,10 @@ author_profile: true
 
 2025
 ------
+- A Unified Online-Offline Framework for Co-Branding Campaign Recommendations.  
+Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.  
+Accepted to **KDD**, 2025.
+
 - Fusing Reward and Dueling Feedback in Stochastic Bandits.  
 Xuchuang Wang, Qirun Zeng, Jinhang Zuo, Xutong Liu, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman.  
 Accepted to **ICML**, 2025.
