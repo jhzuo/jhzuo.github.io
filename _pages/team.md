@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 **Graduate Students**
-- Qirun Zeng, PhD student (incoming), BS from University of Science and Technology of China (School of the Gifted Young)
+- Qirun Zeng, PhD student (incoming). BS from University of Science and Technology of China (School of the Gifted Young)
+- Liming Wang, PhD student (incoming). BS from Beijing Institute of Technology, MS from Hong Kong University of Science and Technology.
 
 
 **Undergraduate Students**
-- Gordon Poon, undergraduate student, CityUHK
+- Manhin Poon, undergraduate student, CityUHK
 
 
 **Visting Students**
