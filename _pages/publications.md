@@ -8,6 +8,10 @@ author_profile: true
 
 2025
 ------
+- Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement.  
+Tian Wu, Liming Wang, Zijian Wen, Xiaoxi Zhang, Jingpu Duan, Xianwei Zhang, Jinhang Zuo.    
+Preprint. [[arXiv]](https://arxiv.org/abs/2508.12851)
+
 - Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection.  
 Qirun Zeng, Eric He, Richard Hoffmann, Xuchuang Wang, Jinhang Zuo.  
 Preprint. [[arXiv]](https://arxiv.org/abs/2505.21938)
