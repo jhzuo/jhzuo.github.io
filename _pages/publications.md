@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+------
+- Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution.  
+Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
+Accepted to **AAAI**, 2025.
+
 
 2025
 ------
@@ -15,10 +21,6 @@ Preprint. [[arXiv]](https://arxiv.org/abs/2508.12851)
 - Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection.  
 Qirun Zeng, Eric He, Richard Hoffmann, Xuchuang Wang, Jinhang Zuo.  
 Preprint. [[arXiv]](https://arxiv.org/abs/2505.21938)
-
-- Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution.  
-Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
-Preprint. [[arXiv]](https://arxiv.org/abs/2506.17670)
 
 - A Unified Online-Offline Framework for Co-Branding Campaign Recommendations.  
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.  
