@@ -13,7 +13,7 @@ My research focuses on online learning and sequential decision-making for buildi
 
 Bio
 ======
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk). Prior to this, I was a joint postdoc at University of Massachusetts Amherst and California Institute of Technology. I received my Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University, following a B.E. in Communication Engineering from Nanjing University of Posts and Telecommunications.
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk). Prior to this, I was a joint postdoc at University of Massachusetts Amherst and California Institute of Technology. I received my Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University, after completing a B.E in Communication Engineering at Nanjing University of Posts and Telecommunications.
 
 
 News

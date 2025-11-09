@@ -9,7 +9,7 @@ author_profile: true
 ------
 - Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution.  
 Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
-Accepted to **AAAI**, 2025.
+Accepted to **AAAI**, 2026.
 
 
 2025
