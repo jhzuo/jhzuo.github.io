@@ -11,6 +11,10 @@ author_profile: true
 Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
 Accepted to **AAAI**, 2026.
 
+- Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation.  
+Xutong Liu, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.  
+Accepted to **INFOCOM**, 2026.
+
 
 2025
 ------
