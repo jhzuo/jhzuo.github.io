@@ -7,6 +7,10 @@ author_profile: true
 
 2026
 ------
+- Bandit Learning in Matching Markets Robust to Adversarial Corruptions.  
+Zheshun Wu, Jinhang Zuo, Zenglin Xu, Fang Kong.  
+Accepted to **ICLR**, 2026.
+
 - Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution.  
 Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
 Accepted to **AAAI**, 2026.
@@ -28,39 +32,39 @@ Preprint. [[arXiv]](https://arxiv.org/abs/2505.21938)
 
 - A Unified Online-Offline Framework for Co-Branding Campaign Recommendations.  
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.  
-Accepted to **KDD**, 2025.
+**KDD**, 2025.
 
 - Fusing Reward and Dueling Feedback in Stochastic Bandits.  
 Xuchuang Wang, Qirun Zeng, Jinhang Zuo, Xutong Liu, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman.  
-Accepted to **ICML**, 2025.
+**ICML**, 2025.
 
 - Offline Learning for Combinatorial Multi-armed Bandits.  
 Xutong Liu, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.  
-Accepted to **ICML**, 2025.
+**ICML**, 2025.
 
 - PASTA: Training Acceleration for Vertical Federated Learning via Adaptive Pipeline Parallelism.  
 Tian Wu, Weijie Liu, Han Liang, Ziwei Zhan, Jingpu Duan, Chuan Wu, Jinhang Zuo, Xu Chen, Xiaoxi Zhang.  
-Accepted to **IWQoS**, 2025.
+**IWQoS**, 2025.
 
 - Stochastic Bandits Robust to Adversarial Attacks.  
 Xuchuang Wang, Maoli Liu, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili.  
-Accepted to **ICLR**, 2025.
+**ICLR**, 2025.
 
 - Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems.  
 Junkai Wang, Xutong Liu, Jinhang Zuo, Yuedong Xu.  
-Accepted to **IEEE INFOCOM**, 2025.
+**IEEE INFOCOM**, 2025.
 
 - Heterogeneous Multi-Agent Bandits with Parsimonious Hints.  
 Amirmahdi Mirfakhar, Xuchuang Wang, Jinhang Zuo, Yair Zick, Mohammad Hajiesmaili.  
-Accepted to **AAAI**, 2025.
+**AAAI**, 2025.
 
 - Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions.  
 Fatemeh Ghaffari , Xuchuang Wang, Jinhang Zuo, Mohammad Hajiesmaili.  
-Accepted to **L4DC**, 2025.
+**L4DC**, 2025.
 
 - Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms.  
 Xiangxiang Dai, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.  
-Accepted to IEEE/ACM Transactions on Networking, 2025.
+IEEE/ACM Transactions on Networking, 2025.
 
 
 2024
