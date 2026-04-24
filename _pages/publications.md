@@ -7,17 +7,22 @@ author_profile: true
 
 2026
 ------
+
+- Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning.  
+Xiangxiang Dai, Xutong Liu, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.  
+Artificial Intelligence (AIJ).
+
 - Bandit Learning in Matching Markets Robust to Adversarial Corruptions.  
 Zheshun Wu, Jinhang Zuo, Zenglin Xu, Fang Kong.  
-Accepted to **ICLR**, 2026.
+**ICLR**, 2026.
 
 - Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution.  
 Manhin Poon, Xiangxiang Dai, Xutong Liu, Fang Kong, John C.S. Lui, Jinhang Zuo.  
-Accepted to **AAAI**, 2026.
+**AAAI**, 2026.
 
 - Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation.  
 Xutong Liu, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.  
-Accepted to **INFOCOM**, 2026.
+**INFOCOM**, 2026.
 
 
 2025
@@ -139,7 +144,7 @@ Accepted to **NeurIPS**, 2022. (2665/10411=25%) [[arXiv]](https://arxiv.org/abs/
 Jiawei Li, Chuyu Wang, Ang Li, Dianqi Han, Yan Zhang, **Jinhang Zuo**, Rui Zhang, Lei Xie, Yanchao Zhang.  
 IEEE/ACM Transactions on Networking (Early Access), 2022. [[link]](https://ieeexplore.ieee.org/document/9893050)
 
-2021
+2021 and Before
 ------
 - Combinatorial Multi-armed Bandits for Resource Allocation.  
 **Jinhang Zuo**, Carlee Joe-Wong.  
@@ -150,9 +155,6 @@ Xutong Liu, **Jinhang Zuo**, Xiaowei Chen, Wei Chen, John C.S. Lui.
 The 38th International Conference on Machine Learning (**ICML**), 2021. (Long Oral, 166/5513=3%) [[arXiv]](https://arxiv.org/abs/2106.05065)
 
 
-
-2020 and Before
-------
 -  Observe Before Play: Multi-armed Bandit with Pre-Observations.  
 **Jinhang Zuo**, Xiaoxi Zhang and Carlee Joe-Wong.  
 The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), 2020. (1591/7737=20%) [[arXiv]](https://arxiv.org/abs/1911.09458)
