@@ -12,6 +12,18 @@ author_profile: true
 Xiangxiang Dai, Xutong Liu, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.  
 Artificial Intelligence (AIJ).
 
+- Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems.  
+Junkai Wang, Xutong Liu, Jinhang Zuo, Yuedong Xu, John C.S. Lui.  
+IEEE/ACM Transactions on Networking, 2026.
+
+- Best Arm Identification in Linear Bandits via Hybrid Feedback.  
+Qirun Zeng, Xuchuang Wang, Jiayi Shen, Xutong Liu, Fang Kong, Jinhang Zuo.  
+Preprint. [[arXiv]](https://arxiv.org/abs/2605.05745)
+
+- One Rounding Fits All: Memory-Efficient Approximation Algorithms for Partition-Constrained Influence Maximization.  
+Qixin Zhang<sup>\*</sup>, Qirun Zeng<sup>\*</sup>, Hui Lu, Pingchuan Ma, Jinhang Zuo, Renqiang Luo, Yi Yu, Dacheng Tao.  
+**KDD**, 2026.
+
 - Bandit Learning in Matching Markets Robust to Adversarial Corruptions.  
 Zheshun Wu, Jinhang Zuo, Zenglin Xu, Fang Kong.  
 **ICLR**, 2026.
