@@ -12,22 +12,6 @@ author_profile: true
 Xiangxiang Dai, Xutong Liu, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.  
 Artificial Intelligence (AIJ).
 
-- Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems.  
-Junkai Wang, Xutong Liu, Jinhang Zuo, Yuedong Xu, John C.S. Lui.  
-IEEE/ACM Transactions on Networking, 2026.
-
-- Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection.  
-Qirun Zeng, Eric He, Richard Hoffmann, Xuchuang Wang, Jinhang Zuo.  
-Preprint. [[arXiv]](https://arxiv.org/abs/2505.21938)
-
-- Best Arm Identification in Linear Bandits via Hybrid Feedback.  
-Qirun Zeng, Xuchuang Wang, Jiayi Shen, Xutong Liu, Fang Kong, Jinhang Zuo.  
-Preprint. [[arXiv]](https://arxiv.org/abs/2605.05745)
-
-- One Rounding Fits All: Memory-Efficient Approximation Algorithms for Partition-Constrained Influence Maximization.  
-Qixin Zhang<sup>\*</sup>, Qirun Zeng<sup>\*</sup>, Hui Lu, Pingchuan Ma, Jinhang Zuo, Renqiang Luo, Yi Yu, Dacheng Tao.  
-**KDD**, 2026.
-
 - Bandit Learning in Matching Markets Robust to Adversarial Corruptions.  
 Zheshun Wu, Jinhang Zuo, Zenglin Xu, Fang Kong.  
 **ICLR**, 2026.
@@ -46,6 +30,10 @@ Xutong Liu, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui
 - Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement.  
 Tian Wu, Liming Wang, Zijian Wen, Xiaoxi Zhang, Jingpu Duan, Xianwei Zhang, Jinhang Zuo.    
 Preprint. [[arXiv]](https://arxiv.org/abs/2508.12851)
+
+- Practical Adversarial Attacks on Stochastic Bandits via Fake Data Injection.  
+Qirun Zeng, Eric He, Richard Hoffmann, Xuchuang Wang, Jinhang Zuo.  
+Preprint. [[arXiv]](https://arxiv.org/abs/2505.21938)
 
 - A Unified Online-Offline Framework for Co-Branding Campaign Recommendations.  
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, Xutong Liu, John C.S. Lui.  
